@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+# I'm *web developer*
+# I have an unfinished secondary education as a *web and multimedia application* developer
+# Completed online courses on web development and now started taking courses on neural network development
+# Developed various web applications on different topics: clothing store, bag booking, web application for a computer club.
+# Every day I study more and more new material that can improve me as a specialist and find new convenient technologies for work. I know the JavaScript language and its various libraries and frameworks.
+# I attended lessons on operating systems. I touched on topics related to network topologies, OSI models and their levels. I wrote algorithms for basic tasks, business logic.
+# Developed the frontend and backend parts of the site in JavaScript using react, express and various security libraries such as JWT, Bcrypt.
+# At the moment I am working on an application for creating recipes, filtering by tags and various recipe topics.
 <!--
 **Vihhycherezass/vihhycherezass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +18,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...faf
 - ⚡ Fun fact: ...
 -->
