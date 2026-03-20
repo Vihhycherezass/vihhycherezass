@@ -1,23 +1,57 @@
-## Hi there 👋
-# I'm *web developer*
-# I have an unfinished secondary education as a *web and multimedia application* developer
-# Completed online courses on web development and now started taking courses on neural network development
-# Developed various web applications on different topics: clothing store, bag booking, web application for a computer club.
-# Every day I study more and more new material that can improve me as a specialist and find new convenient technologies for work. I know the JavaScript language and its various libraries and frameworks.
-# I attended lessons on operating systems. I touched on topics related to network topologies, OSI models and their levels. I wrote algorithms for basic tasks, business logic.
-# Developed the frontend and backend parts of the site in JavaScript using react, express and various security libraries such as JWT, Bcrypt.
-# At the moment I am working on an application for creating recipes, filtering by tags and various recipe topics.
-<!--
-**Vihhycherezass/vihhycherezass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Привет! Меня зовут Назар
+------------
+### ML/DL-инжернер
+📍  Локация: Иркутск, Россия\
+🎓 Учусь: Академия нейросетей [The Founder](https://academy.the-founder.ru/)\
+💬 Telegram: @rollyuosb
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...faf
-- ⚡ Fun fact: ...
--->
+### ⚡ Обо мне
+Свой путь в IT начал с разработки сайтов. Делал как лендинг, так и сайты с 15+ страницами.\
+Верстал и делал бэк для разнообразных сайтов. Этот опыт научил меня работать с современными инструментами и базами данных.\
+В данный момент я сфокусирован на изучении:
+*   **Seq2Seq** и механизмы внимания (Luong, Bahdanau)
+*   **Трансформеры** (архитектура, Transformers, Llama.cpp)
+*   **GAN'ы** и Вариационные автокодировщики (VAE)
+*   Применение всего этого добра для генерации текста, изображений и описаний контента.
+### 🚀 Пет-проекты (Research & Development)
+Здесь я экспериментирую с архитектурами, которые сейчас прохожу в рамках курса.
+
+**📝 Генератор подписей к изображениям (Image Captioning)**
+*   **Суть:** Модель, которая "смотрит" на картинку (через сверточный бэкбон) и пишет осмысленный текст на естественном языке.
+*   **Реализация:** Склеил энкодер (InceptionV3) с декодером на базе **LSTM**. Обучал на датасете Flickr8k.
+*   **Стек:** `Python`, `TensorFlow/Keras` 
+*   **Ссылка:** [Репозиторий проекта](https://github.com/Vihhycherezass/Seq2Seq-Image-Captioning-InceptionV3-)
+
+**🤖 Чат-бот "Нейро-Юрист"**
+*   **Суть:** Проект в котором реализуется RAG-система на основе статей УК РФ.
+*   **Реализация:** Построил RAG-систему для генерации ответов в диалоге, использовал 424 статьи УК РФ с их подстатьями. В итоге чат-бот выдает релевантные ответы по уголовному кодексу и, используя фильтрацию входных данных, на основе NeMo Guardrails, пропускает нерелевантные вопросы.
+*   **Стек:** `pdfplumber`, `llama-cpp`, `llama-index`, `transformers`
+*   **Ссылка:** [Репозиторий проекта](https://github.com/Vihhycherezass/RAG_CriminalLaw_RU)
+
+**🔍 Классическое машинное обучение "Предсказание оттока клиентов банка"**
+*   **Суть:** Модель должна определять по входным данным клиента, перестанет ли он пользоваться продуктами банка или продолжит.
+*   **Реализация:** Написал структуированный код от анализа данных и до обучения модели. Для более точных ответов от модели -  занялся features engineering, что дало прирост к точности.
+*   **Стек:** `pandas`, `sklearn`, `xgboost `, `numpy`
+*   **Ссылка:** [Репозиторий проекта](https://github.com/Vihhycherezass/Bank-Customer-Churn-Prediction/blob/main/Bank_Customer_Churn_Prediction.ipynb)
+---
+### 🎯 Цель
+
+Хочу развиваться в области генеративных моделей. Ищу команду, где смогу применять знания о **трансформерах** и генерации контента для создания реальных продуктов. Мой бэкграунд помогает мне не просто писать код, а создавать интуитивно понятные интерфейсы взаимодействия человека и нейросети.
+
+---
+
+### 📜 Образование
+
+*   **2026:** Разработчик нейросетей (продвинутый уровень) — *The Founder*
+*   **2026:** Разработчик веб и мультимедийных приложений  — *Иркутский Авиационный Техникум*
+  
+---
+
+### 💡 Основной стек (сейчас в фокусе)
+
+*   **Языки:** Python, SQL
+*   **DL:** TensorFlow, Keras, PyTorch (начальный уровень), HuggingFace Transformers
+*   **ML:** Scikit-learn, Pandas, Numpy
+*   **Инструменты:** Google Colab, Git, Llama.cpp
