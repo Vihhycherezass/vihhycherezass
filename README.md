@@ -51,7 +51,7 @@
   
 ---
 
-### 💡 Основной стек (сейчас в фокусе)
+### 💡 Основной стек
 
 *   **Языки:** Python, SQL
 *   **DL:** TensorFlow, Keras, PyTorch (начальный уровень), HuggingFace Transformers
