@@ -57,6 +57,6 @@
 ### 💡 Основной стек
 
 *   **Языки:** Python, SQL
-*   **DL:** TensorFlow, Keras, PyTorch (начальный уровень), HuggingFace Transformers
+*   **DL:** TensorFlow, Keras, PyTorch, HuggingFace Transformers
 *   **ML:** Scikit-learn, Pandas, Numpy
 *   **Инструменты:** Google Colab, Git, Llama.cpp
